@@ -1,4 +1,3 @@
-# Microbit
+# Microbit Tutorial
 Microbit Sample Code
-
-Directly copy the Javascript code to makecode.microbit.org 
+Copy the Javascript code into makecode.microbit.org PXT Editor 
